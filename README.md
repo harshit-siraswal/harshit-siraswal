@@ -67,6 +67,10 @@
 </div>
 <br />
 <div>
+    <img src="https://github-contributor-stats.vercel.app/api?username=AmanDevelops&limit=4&theme=one_dark_pro&combine_all_yearly_contributions=true" width="48%" />
+</div>
+<br />
+<div>
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=amandevelops&theme=merko" alt="AmanDevelops github readme activity graph" width="100%" />
 </div>
 <br>
