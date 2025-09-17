@@ -75,5 +75,5 @@
 </div>
 <br>
 
-[![An image of @amandevelops's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amandevelops)](https://holopin.io/@amandevelops)
-<img src="./assets/header_divider.gif" width="100%">
+<!-- [![An image of @amandevelops's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amandevelops)](https://holopin.io/@amandevelops)
+<img src="./assets/header_divider.gif" width="100%"> -->
