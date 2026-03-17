@@ -1,12 +1,21 @@
 <img src="./assets/header_divider.gif" width="100%">
 <img src="./assets/header.png">
 
-# <b>Hi there, I'm </b><a href="https://github.com/AmanDevelops">Aman Pal</a> <img src="./assets/waving.gif" width="30">
+# <b>Hi there, I'm </b><a href="https://github.com/harshit-siraswal">HARSHIT PAL</a> <img src="./assets/waving.gif" width="30">
 
 <img src="./assets/about_me.gif" width="35">&nbsp;**_About Me_**
 <img src="./assets/line_break.gif">
 
-<p style="font-size: 1.25rem;">I'm a <b>Software Developer</b> who learned that the best way to understand code is to share it with the world. As an active <b>Open-Source Contributor</b>, I've found that debugging gets easier when you have thousands of potential collaborators on GitHub. I particularly enjoy working with Python and JavaScript.</p>
+<p style="font-size: 1.25rem;">I'm a <b>Software Developer</b> from Delhi, India interested in tech. I enjoy building web applications and exploring new technologies, particularly working with <b>TypeScript</b>, <b>HTML/CSS</b>, and modern web development.</p>
+
+<img src="./assets/about_me.gif" width="35">&nbsp;**_Current Projects_**
+<img src="./assets/line_break.gif">
+
+- **StudySpace Ecosystem**: A comprehensive educational platform I am actively building.
+  - 📱 **MyStudySpace App**: A cross-platform mobile application built with **Flutter**.
+  - 🛠️ **StudySpace Admin**: A web-based admin dashboard for managing the platform.
+  - ⚙️ **StudySpace Backend**: A robust REST API powered by **Node.js** and **TypeScript**.
+<br>
 
 <img src="./assets/script_sticker.gif" width="30">&nbsp;**_Stack I used_**
 <img src="./assets/line_break.gif">
@@ -62,18 +71,24 @@
 <img src="./assets/line_break.gif">
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmanDevelops&layout=compact&show_icons=true&theme=tokyonight" alt="AmanDevelops github-readme-stats" width="48%" />
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=AmanDevelops&theme=tokyonight" width="51%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit-siraswal&layout=compact&show_icons=true&theme=tokyonight" alt="harshit-siraswal github-readme-stats" width="48%" />
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=harshit-siraswal&theme=tokyonight" width="51%" />
 </div>
 <br />
 <div>
-    <img src="https://github-contributor-stats.vercel.app/api?username=AmanDevelops&limit=4&theme=one_dark_pro&combine_all_yearly_contributions=true" width="48%" />
+    <img src="https://github-contributor-stats.vercel.app/api?username=harshit-siraswal&limit=4&theme=one_dark_pro&combine_all_yearly_contributions=true" width="48%" />
 </div>
 <br />
 <div>
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=amandevelops&theme=merko" alt="AmanDevelops github readme activity graph" width="100%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=harshit-siraswal&theme=merko" alt="harshit-siraswal github readme activity graph" width="100%" />
 </div>
 <br>
 
-[![An image of @amandevelops's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amandevelops)](https://holopin.io/@amandevelops)
+<div align="center">
+  <a href="https://portfolio-rekw.vercel.app/">Portfolio</a> |
+  <a href="https://www.linkedin.com/in/harshit-pal-440370204/">LinkedIn</a> |
+  <a href="https://x.com/harshitsiraswal">X (Twitter)</a> |
+  <a href="https://www.instagram.com/harshit_siraswal/">Instagram</a>
+</div>
+
 <img src="./assets/header_divider.gif" width="100%">
